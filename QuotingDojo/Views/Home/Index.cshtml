@@ -1,0 +1,38 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+    <div class="wrapper">
+        <h1>Welcome to Quoting Dojo!</h1>
+        <div class="content">
+            <form class="form" action="addquote" method="POST">
+                <div class="center">
+                    <table>
+                        <tr>
+                            <td class="left">Name:</td>
+                            <td class="right">
+                                <div class="form-group">
+                                    <input name="Name" type="text" class="form-control">
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="left">Your Quote:</td>
+                            <td class="right">
+                                <div class="form-group">
+                                    <textarea class="form-control" name='quote' rows="16" cols="50">
+                                    </textarea>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="press">
+                    <button type="submit" class="button">Add Quote</button>
+                    <a href="quotes" class="badge badge-warning">Skip to Quotes</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>

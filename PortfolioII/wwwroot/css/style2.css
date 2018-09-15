@@ -1,0 +1,28 @@
+.title{
+    margin:75px;
+}
+h1{
+    text-align: center;
+}
+.project{
+    height: 60vh;
+    width: 80%;
+    overflow: scroll;
+}
+.photo{
+    width: 200px;
+    height: 150px;
+    margin-top: 40px;
+    margin-left: 50px;
+    background: darkcyan;
+}
+.text{
+    width: 60%;
+    margin-left: 10%;
+}
+
+.hold{
+    border: solid gray 1px;
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/bin/Debug/netcoreapp2.0/WNS.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/bin/Debug/netcoreapp2.0/WNS.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/bin/Debug/netcoreapp2.0/WNS.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/bin/Debug/netcoreapp2.0/WNS.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/bin/Debug/netcoreapp2.0/WNS.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/obj/Debug/netcoreapp2.0/WNS.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/obj/Debug/netcoreapp2.0/WNS.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/obj/Debug/netcoreapp2.0/WNS.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/obj/Debug/netcoreapp2.0/WNS.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/obj/Debug/netcoreapp2.0/WNS.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/WNS/obj/Debug/netcoreapp2.0/WNS.pdb

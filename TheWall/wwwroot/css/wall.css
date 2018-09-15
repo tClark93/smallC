@@ -1,0 +1,59 @@
+.top{
+    margin:25px;
+}
+
+.top h2{
+    margin: 50px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+}
+
+.top button{
+
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 12px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: darkblue;
+}
+
+.messages{
+    margin: 50px;
+    margin-left: 75px;
+    margin-right: 75px;
+    border-bottom: 1px solid #b4b4b4 
+}
+
+.messages span{
+    font-size: 10pt;
+    font-weight: normal;
+}
+
+.msg{
+    display: flex;
+    width: 100%;
+    padding-left: 25px;
+    padding-right: 25px;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.msg button{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    padding: 6px;
+    padding-left: 10px;
+    padding-right: 12px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: darkblue;
+}
+
+.msg textarea{
+    width: 800px;
+}
+.Comments{
+    margin-left: 50px;
+    margin-right: 50px;
+}

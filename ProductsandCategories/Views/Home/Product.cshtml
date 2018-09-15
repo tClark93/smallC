@@ -1,0 +1,27 @@
+﻿<head>
+
+</head>
+<body>
+@model Product
+    <div class="wrapper">
+        <h1>New Product</h1>
+            <form asp-action="addProduct" asp-controller="Home" method="POST">
+                <div class="inp form-group">
+                    <label>Name:</label>
+                    <span asp-validation-for="Name"></span>
+                    <input asp-for="Name" type="text" class="form-control">
+                </div>
+                <div class="inp form-group">
+                    <label>Description:</label>
+                    <span asp-validation-for="Name"></span>
+                    <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                </div>
+                <div class="inp form-group">
+                    <label>Price:</label>
+                    <span asp-validation-for="Price"></span>
+                    <input asp-for="Price" type="decimal" class="form-control">
+                </div>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+</body>

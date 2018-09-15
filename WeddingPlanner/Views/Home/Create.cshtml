@@ -1,0 +1,40 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/create.css" asp-append-version="true" />
+</head>
+<body>
+@model Event
+    <div class="wrapper">
+        <div class="registration">
+            <h1>Plan Your Wedding: @ViewBag.user.First</h1>
+            <form action="/addWedding" method="POST">
+                <div class="inp form-group">
+                    <span asp-validation-for="Bride"></span><br>
+                    <label>Bride:</label>
+                    <input asp-for="Bride" type="text" class="form-control">
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Groom"></span><br>
+                    <label>Groom:</label>
+                    <input asp-for="Groom" type="text" class="form-control">
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Date"></span><br>
+                    <label>Date:</label>
+                    <input asp-for="Date" type="date" class="form-control">    
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Address"></span><br>
+                    <label>Event Address:</label>
+                    <input asp-for="Address" type="text" class="form-control">
+                </div>
+                <input type="hidden" asp-for="Creator" value="@ViewBag.user">
+                <input type="hidden" asp-for="Userid" value="@ViewBag.user.id">
+            <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div class="links">
+            <a href="/dashboard">Dashboard</a>
+            <a href="/logout">Log Out</a>
+        </div>
+    </div>
+</body>

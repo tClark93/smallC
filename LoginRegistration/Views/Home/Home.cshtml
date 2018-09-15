@@ -1,0 +1,56 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+</head>
+<body>
+@model User
+    <div class="wrapper">
+        <div class="registration">
+            <h1>Register:</h1>
+            <form action="register" method="POST">
+                <div class="inp form-group">
+                    <span asp-validation-for="First"></span><br>
+                    <label>First Name:</label>
+                    <input asp-for="First" name="First" type="text" class="form-control">
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Last"></span><br>
+                    <label>Last Name:</label>
+                    <input asp-for="Last" name="Last" type="text" class="form-control">
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Email"></span><br>
+                    <label>Email:</label>
+                    <input asp-for="Email" name="Email" type="Email" class="form-control">
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Password"></span><br>
+                    <label>Password:</label>
+                    <input asp-for="Password" name="Password" type="Password" class="form-control">    
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Confirm"></span><br>
+                    <label> Confirm Password:</label>
+                    <input asp-for="Confirm" name="Confirm" type="Password" class="form-control">
+                </div>
+            <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div class="login">
+            <h1>Login:</h1>
+            <form action="login" method="POST">
+                <div class="inp form-group">
+                    <!-- <span asp-validation-for="logEmail"></span><br> -->
+                    <label>Email:</label>
+                    <!-- <input asp-for="logEmail" name="Email" type="Email" class="form-control"> -->
+                </div>
+                <div class="inp form-group">
+                    <!-- <span asp-validation-for="logPassword"></span><br> -->
+                    <label>Password:</label>
+                    <!-- <input asp-for="logPassword" name="logPassword" type="Password" class="form-control">     -->
+                </div>
+                <button type="submit">Submit</button>
+            </form>
+            <a href="login">Log In Here</a>
+        </div>
+    </div>
+</body>

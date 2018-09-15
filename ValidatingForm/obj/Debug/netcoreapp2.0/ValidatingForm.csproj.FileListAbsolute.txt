@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/bin/Debug/netcoreapp2.0/ValidatingForm.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/bin/Debug/netcoreapp2.0/ValidatingForm.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/bin/Debug/netcoreapp2.0/ValidatingForm.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/bin/Debug/netcoreapp2.0/ValidatingForm.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/bin/Debug/netcoreapp2.0/ValidatingForm.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/obj/Debug/netcoreapp2.0/ValidatingForm.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/obj/Debug/netcoreapp2.0/ValidatingForm.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/obj/Debug/netcoreapp2.0/ValidatingForm.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/obj/Debug/netcoreapp2.0/ValidatingForm.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/obj/Debug/netcoreapp2.0/ValidatingForm.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/ValidatingForm/obj/Debug/netcoreapp2.0/ValidatingForm.pdb

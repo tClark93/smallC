@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/bin/Debug/netcoreapp2.0/QuotingDojo.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/QuotingDojo/obj/Debug/netcoreapp2.0/QuotingDojo.pdb

@@ -1,0 +1,111 @@
+<head>
+    <link rel="stylesheet" href="~/css/Join.css" asp-append-version="true" />
+</head>
+<body>
+@using green.Models
+@model Artist
+    <div class="wrapper">
+        <div class="topper">
+            <div class="header">
+                <a>About?</a>
+                <a href="/venue">Venues</a>
+                <a  href="/"><img src="~/images/title.png"></a>
+                <a href="/artist">Artists</a>
+                <a href="/join">Join</a>
+            </div>
+        </div>
+        <h3>Please fill out the form below. Fields on the left are optional but highly recommended.</h3>
+        </div>
+        <form asp-action="registerArtist" asp-controller="Home" method="POST">
+            <div class="forms">
+                <div class="registration">
+                    <!-- <h2>Register:</h2> -->
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Name:</label>
+                                <span asp-validation-for="Name"></span>
+                            </div>
+                            <input asp-for="Name" type="text" class="form-control">
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Email:</label>
+                                <span asp-validation-for="Email"></span>
+                            </div> 
+                            <input asp-for="Email" type="text" class="form-control">
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Description:</label>
+                                <span asp-validation-for="Description"></span>
+                            </div>
+                            <textarea asp-for="Description" type="text" id="" cols="30" rows="6"></textarea>
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Password:</label>
+                                <span asp-validation-for="Password"></span>
+                            </div>
+                            <input asp-for="Password" type="Password" class="form-control">    
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Confirm Password:</label>
+                                <span asp-validation-for="Confirm"></span>
+                            </div>
+                            <input asp-for="Confirm" type="Password" class="form-control">
+                        </div>
+                </div>
+                <div class="login">
+                    <!-- <h2>Login:</h2> -->
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Zip Code:</label>
+                                <span asp-validation-for="Zip"></span>
+                            </div>
+                            <input asp-for="Zip" type="Number" class="form-control">    
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Phone Number:</label>
+                                <span asp-validation-for="Phone"></span>
+                            </div>
+                            <input placeholder = "000.000.0000" asp-for="Phone" type="Text" class="form-control">    
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Website:</label>
+                                <span asp-validation-for="Website"></span>
+                            </div>
+                            <input asp-for="Website" type="Text" class="form-control">    
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Twitter:</label>
+                                <span asp-validation-for="Twitter"></span>
+                            </div>
+                            <input asp-for="Twitter" type="Text" class="form-control">    
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Instagram:</label>
+                                <span asp-validation-for="Instagram"></span>
+                            </div>
+                            <input asp-for="Instagram" type="Text" class="form-control">    
+                        </div>
+                        <div class="inp form-group">
+                            <div class="warning">
+                                <label>Facebook:</label>
+                                <span asp-validation-for="Facebook"></span>
+                            </div>
+                            <input asp-for="Facebook" type="Text" class="form-control">    
+                        </div>
+                    
+                </div>
+            </div>
+            <div class="btncntr">
+                <button type="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+</body>

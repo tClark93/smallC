@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/bin/Debug/netcoreapp2.0/DeckOfCards.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/DeckOfCards/obj/Debug/netcoreapp2.0/DeckOfCards.pdb

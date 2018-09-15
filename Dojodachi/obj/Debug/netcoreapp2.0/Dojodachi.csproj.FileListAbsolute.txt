@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.pdb

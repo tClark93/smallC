@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ORMs/green/bin/Debug/netcoreapp2.0/green.deps.json
+/Users/Troy/Documents/Dojo/C#/ORMs/green/bin/Debug/netcoreapp2.0/green.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ORMs/green/bin/Debug/netcoreapp2.0/green.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ORMs/green/bin/Debug/netcoreapp2.0/green.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/green/bin/Debug/netcoreapp2.0/green.pdb
+/Users/Troy/Documents/Dojo/C#/ORMs/green/obj/Debug/netcoreapp2.0/green.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/green/obj/Debug/netcoreapp2.0/green.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/green/obj/Debug/netcoreapp2.0/green.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/green/obj/Debug/netcoreapp2.0/green.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ORMs/green/obj/Debug/netcoreapp2.0/green.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/green/obj/Debug/netcoreapp2.0/green.pdb

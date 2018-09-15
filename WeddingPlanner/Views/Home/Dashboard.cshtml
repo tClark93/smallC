@@ -1,0 +1,57 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/Dashboard.css" asp-append-version="true" />
+</head>
+<body>
+    @model ViewModel
+    <div class="wrapper">
+        <div class = "Head">
+            <h1>Welcome to the Wedding Planner, @ViewBag.user.First!</h1>
+            <a href="/logout" class="cat badge badge-primary">Log Out</a>
+        </div>
+        <div class="Weddings">
+            <table class="table">
+                <tr>
+                    <th>Wedding</th>
+                    <th>Date</th>
+                    <th>Guests</th>
+                    <th>Action</th>
+                </tr>
+                @foreach(Event wedding in @ViewBag.weddings)
+                { 
+                <tr>
+                    <td><a href="wedding/@wedding.id">@wedding.Bride and @wedding.Groom</a></td>
+                    <td>@wedding.Date.ToString("MMMM dd, yyyy")</td>
+                    <td>@wedding.Guests.Count()</td>
+                    <td>
+                        @if (@wedding.Userid == @ViewBag.user.id)
+                        {
+                            <a href="delete/@wedding.id">Delete</a>
+                        }
+                        else 
+                        {
+                            int Count = 0;
+                            @foreach(var u in @wedding.Guests) 
+                            {
+                                @if(@u.Guest.id == @ViewBag.user.id) {
+                                    Count = 1;
+                                }
+                            }
+                            @if(Count == 1) 
+                            {
+                                <a href="cancel/@wedding.id">Cancel</a>
+                            } 
+                            if(Count == 0) 
+                            {
+                                <a href="rsvp/@wedding.id">RSVP</a>
+                            }
+                        }
+                    </td>
+                </tr>
+                }
+            </table>
+        </div>
+        <div class="link">
+            <a class="butt" href="/create" class="badge badge-primary">New Wedding</a>
+        </div>
+    </div>
+</body>

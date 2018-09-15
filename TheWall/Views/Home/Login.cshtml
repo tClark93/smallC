@@ -1,0 +1,30 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+</head>
+<body>
+@model User
+    <div class="wrapper">
+        <div class = "title">
+            <h1>The Wall</h1>
+        </div>
+        <div class="registration">
+            <h1>Log In:</h1>
+            <form action="/loginuser" method="POST">
+                <div class="inp form-group">
+                    <span asp-validation-for="Email"></span><br>
+                    <label>Email:</label>
+                    <input asp-for="Email" name="Email" type="Email" class="form-control">
+                </div>
+                <div class="inp form-group">
+                    <span asp-validation-for="Password"></span><br>
+                    <label>Password:</label>
+                    <input asp-for="Password" name="Password" type="Password" class="form-control">    
+                </div>
+            <button type="submit">Log In</button>
+            </form>
+        </div>
+        <div class="login">
+            <a href="">Need an Account? Create one here.</a>
+        </div>
+    </div>
+</body>

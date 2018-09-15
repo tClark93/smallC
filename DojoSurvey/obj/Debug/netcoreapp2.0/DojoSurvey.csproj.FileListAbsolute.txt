@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/bin/Debug/netcoreapp2.0/DojoSurvey.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/DojoSurvey/obj/Debug/netcoreapp2.0/DojoSurvey.pdb

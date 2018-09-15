@@ -1,0 +1,80 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/style2.css" asp-append-version="true" />
+</head>
+<body>
+@model Account
+@{
+    float total = new float();
+    float balance = new float();
+    foreach(Account account in @ViewBag.Accounts)
+        {
+            float x = new float();
+            x = account.Amount;
+            total += x;
+        }
+}
+    <div class="wrapper">
+        <div class = "Head">
+            <h2>Welcome, @ViewBag.user.First!</h2>
+            <h4>Current Balance: @total.ToString("0.00")</h4>
+        </div>
+        <div class="hold">
+            <div class="transactions">
+                <form action="/activity" method="post">
+                    <div class="col-lg-6">
+                        <div class="input-group">
+                            <span class="input-group-btn">
+                                <button class="btn btn-danger" type="submit">Withdraw</button>
+                            </span>
+                            <input asp-for="Amount" type="decimal" max="-0.01" class="form-control" placeholder="-0.00">
+                        </div>
+                    </div>
+                </form>
+                <form action="/activity" method="post">
+                    <div class="col-lg-6">
+                        <div class="input-group">
+                            <input asp-for="Amount" type="decimal" class="form-control" placeholder="0.00">
+                            <span class="input-group-btn">
+                                <button class="btn btn-success" type="submit">Deposit</button>
+                            </span>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="history">
+            <table class="table">
+                <tr>
+                    <th>Amount</th>
+                    <th>Balance</th>
+                    <th>Date</th>
+                </tr>
+                @foreach(Account account in @ViewBag.Accounts)
+                {
+                    float amount = new float();
+                    amount = account.Amount;
+                    if (amount > 0)
+                    {
+                     
+                        <tr class="success">
+                            <td>@account.Amount.ToString("0.00")</td>
+                            <td> </td>
+                            <td>@account.Date</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        <tr class="danger">
+                            <td>@account.Amount.ToString("0.00")</td>
+                            <td> </td>
+                            <td>@account.Date</td>
+                        </tr>
+                    }
+                }
+            </table>
+        </div>
+        <div class="link">
+            <a class="butt" href="/logout" class="badge badge-primary">Log Out</a>
+        </div>
+    </div>
+</body>

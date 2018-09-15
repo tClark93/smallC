@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/obj/Debug/netcoreapp2.0/LoginRegistration.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/obj/Debug/netcoreapp2.0/LoginRegistration.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/obj/Debug/netcoreapp2.0/LoginRegistration.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/obj/Debug/netcoreapp2.0/LoginRegistration.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/bin/Debug/netcoreapp2.0/LoginRegistration.deps.json
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/bin/Debug/netcoreapp2.0/LoginRegistration.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/bin/Debug/netcoreapp2.0/LoginRegistration.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/bin/Debug/netcoreapp2.0/LoginRegistration.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/bin/Debug/netcoreapp2.0/LoginRegistration.pdb
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/obj/Debug/netcoreapp2.0/LoginRegistration.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/LoginRegistration/obj/Debug/netcoreapp2.0/LoginRegistration.pdb

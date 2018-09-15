@@ -1,0 +1,27 @@
+<head>
+    <link rel="stylesheet" href="~/css/Wedding.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="wrapper">
+        <div class="left">
+            <h1>@ViewBag.wedding.Bride and @ViewBag.wedding.Groom's Wedding</h1>
+            <div class="length">
+                <h4>Date</h4>
+                <p>@ViewBag.wedding.Date.ToString("MMM dd yyyy")</p>
+            </div>
+            <div class="elevation">
+                <h4>Guests</h4>
+                <ul>
+                    @foreach(var guest in @ViewBag.wedding.Guests)
+                    {
+                        <li>@guest.Guest.First @guest.Guest.Last</li>
+                    }
+                </ul>
+            </div>
+        </div>
+        <div class="right">
+            <a href="/dashboard">Dashboard</a>
+            <a href="/logout">Logout</a>
+        </div>
+    </div>
+</body>

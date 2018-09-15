@@ -1,0 +1,10 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/bin/Debug/netcoreapp2.0/CollectionsPractice.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/CollectionsPractice/obj/Debug/netcoreapp2.0/CollectionsPractice.pdb

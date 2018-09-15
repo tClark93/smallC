@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/bin/Debug/netcoreapp2.0/RockPaperScissors.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RockPaperScissors/obj/Debug/netcoreapp2.0/RockPaperScissors.pdb

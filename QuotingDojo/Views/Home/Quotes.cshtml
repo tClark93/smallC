@@ -1,0 +1,25 @@
+<head>
+    <link rel="stylesheet" href="~/css/style2.css" />
+</head>
+<body>
+    <div class="wrapper">
+        <h1 class="title">Here are the awesome quotes!</h1>
+        <div class="content">
+            <div class="other">
+                @{
+                    @foreach(var quote in @ViewBag.AllQuotes)
+                    {
+                    <div class="hold">
+                        <div class="quote">
+                            <p>@quote["content"]</p>
+                        </div>
+                        <div class="info">
+                            <p>-@quote["author"] @quote["created_at"]</p>
+                        </div>
+                    </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</body>

@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/bin/Debug/netcoreapp2.0/MultidimensionalArrays.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/bin/Debug/netcoreapp2.0/MultidimensionalArrays.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/bin/Debug/netcoreapp2.0/MultidimensionalArrays.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/bin/Debug/netcoreapp2.0/MultidimensionalArrays.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/bin/Debug/netcoreapp2.0/MultidimensionalArrays.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/obj/Debug/netcoreapp2.0/MultidimensionalArrays.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/obj/Debug/netcoreapp2.0/MultidimensionalArrays.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/obj/Debug/netcoreapp2.0/MultidimensionalArrays.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/obj/Debug/netcoreapp2.0/MultidimensionalArrays.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/obj/Debug/netcoreapp2.0/MultidimensionalArrays.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/MultidimensionalArrays/obj/Debug/netcoreapp2.0/MultidimensionalArrays.pdb

@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/bin/Debug/netcoreapp2.0/PortfolioI.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/bin/Debug/netcoreapp2.0/PortfolioI.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/bin/Debug/netcoreapp2.0/PortfolioI.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/bin/Debug/netcoreapp2.0/PortfolioI.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/bin/Debug/netcoreapp2.0/PortfolioI.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/obj/Debug/netcoreapp2.0/PortfolioI.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/obj/Debug/netcoreapp2.0/PortfolioI.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/obj/Debug/netcoreapp2.0/PortfolioI.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/obj/Debug/netcoreapp2.0/PortfolioI.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/obj/Debug/netcoreapp2.0/PortfolioI.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/PortfolioI/obj/Debug/netcoreapp2.0/PortfolioI.pdb

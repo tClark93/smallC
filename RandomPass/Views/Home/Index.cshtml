@@ -1,0 +1,21 @@
+﻿
+<div class="container">
+    <div class="row">
+        <h1>Random Passcode (# @ViewBag.Val)</h1>
+    </div>
+    <div class="row container" style="border: 1px solid grey; width:50%; text-align:center; margin: 25px;">
+        @{
+            Random r = new Random();
+            char[] randArray = "QWERTYUIOPASDFGHJKLZXCVBNM12345678900".ToCharArray();
+            string gen = "";
+            for(int i = 0; i < 14; i++)
+            {
+                gen += randArray[r.Next(0,37)].ToString();
+            }
+            <h1>@gen</h1>
+        }
+    </div>
+    <div class="row">
+            <a href="" class="badge badge-primary">Generate</a>
+    </div>
+</div>

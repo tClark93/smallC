@@ -1,0 +1,58 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+</head>
+<body>
+    <div class = "wrapper">
+        <div class="header">
+            <div class="content">
+                <h4>Fullness: @ViewBag.DachiInfo.Fullness</h4>
+            </div>
+            <div class="content">
+                <h4>Happiness: @ViewBag.DachiInfo.Happiness</h4>
+            </div>
+            <div class="content">
+                <h4>Energy: @ViewBag.DachiInfo.Energy</h4>
+            </div>
+            <div class="content">
+                <h4>Meals: @ViewBag.DachiInfo.Meals</h4>
+            </div>
+        </div>
+        <div class="main">
+            <div class="dachi">
+                <div class="image">
+
+                </div>
+            </div>
+            <div class="parent">
+                <div class="text">
+                    <p> @TempData["message"] </p>
+                </div>
+            </div>
+        </div>
+        <div class="buttons">
+            @{
+                if(@TempData["message"] == "You won!  Dachi broke from his caccoon and flew away!" || @TempData["message"] == "You killed Dachi you fucking asshole!")
+                {
+                     <div>
+                        <a href="reset" class="badge badge-info">Play Again</a>
+                    </div>
+                }
+                else
+                {
+                    <div>
+                        <a href="feed" class="badge badge-info">Feed</a>
+                    </div>
+                    <div>
+                        <a href="play" class="badge badge-warning">Play</a>
+                    </div>
+                    <div>
+                        <a href="work" class="badge badge-danger">Work</a>
+                    </div>
+                    <div>
+                        <a href="sleep" class="badge badge-dark">Sleep</a>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</body>

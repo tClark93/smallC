@@ -1,0 +1,49 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/add.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="wrapper">
+        <div class="head">
+            <h1>Add a New Trail</h1>
+            <a href="/">Go Home</a>
+        </div>
+        <div class="body">
+            <form action='create' method='post'>
+                <table>
+                    <tr>
+                        <!-- <span asp-validation-for="Name"></span> -->
+                        <td class="text"><label for="Name">Trail Name:</label></td>
+                        <!-- <input type="text" class="form-control" asp-for="Name"> -->
+                    </tr>
+                    <tr>
+                        <!-- <span asp-validation-for="Comment"></span> -->
+                        <td class="text"><label for="Comment">Description:</label></td>
+                        <td class="input"><textarea class="form-control" name='Comment' rows="6">
+                        </textarea></td>
+                    </tr>
+                    <tr>
+                        <!-- <span asp-validation-for="Location"></span> -->
+                        <td class="text"><label for="Location">Trail Length:</label></td>
+                        <td class="input"><input type="number" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <!-- <span asp-validation-for="Language"></span> -->
+                        <td class="text"><label for="Language">Elevation Change:</label></td>
+                        <td class="input"><input type="Number" class="form-control"></td>
+                    </tr>
+                    <tr>
+                        <!-- <span asp-validation-for="Language"></span> -->
+                        <td class="text"><label for="Language">Longitude and Latiitude:</label></td>
+                        <tdclass="input">
+                            <td class="extra"><input type="number" class="form-control"> </td>
+                            <td class="extra"><input type="number" class="form-control"></td>
+                        </td>
+                    </tr>
+                </table>
+                <div class="but">
+                    <button type='submit' value='Submit' class="btn btn-warning">Submit</button>
+                </div>
+            </form>  
+        </div>
+    </div>
+</body>

@@ -1,0 +1,10 @@
+﻿@model ViewModelFun.Models.User
+<h1>Here is a Name:</h1>
+<ul>
+@{
+    Random rand = new Random();
+
+    <p>@Model.names[rand.Next(0,5)]</p>
+
+}
+</ul>

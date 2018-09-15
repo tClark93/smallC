@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+.child{
+    width:200px;
+}
+.middle a{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+.title{
+    margin:75px;
+}
+h1{
+    text-align: center;
+}
+
+.photo{
+    margin-top:140px;
+    height:300px;
+    width:400px;
+    background: url("../image/image-1465348_960_720.jpg");
+    background-size: cover;
+}
+.copy{
+    width: 50%;
+    margin-left: 10%;
+}

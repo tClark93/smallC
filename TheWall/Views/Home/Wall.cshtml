@@ -1,0 +1,62 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/wall.css" asp-append-version="true" />
+</head>
+<body>
+@using TheWall.Models
+@model ViewModel
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="navbar-brand">The Wall</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul  class="nav navbar-nav navbar-right">
+                    <li><a href="#">Welcome, @ViewBag.User.First</a></li>
+                    <li><a href="logout">Log Out</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="everything">
+        <div>
+            <div class="top">
+                <h2>Post a Message:</h2>
+                <form asp-action="addPost" asp-controller="Home" method="post">
+                    <div class="form-group">
+                        <textarea name="Content" class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                    </div>
+                    <button type="submit">Post!</button>
+                </form>
+            </div>
+            @foreach(var post in @ViewBag.Posts)
+                {
+                <div class="messages">
+                    <div class="posts">
+                        <h4>@post.Creator.First @post.Creator.Last <span>@post.Created.ToString("MMM dd, yyyy hh:mm tt")</span></h4>
+                        <p>@post.Content</p>
+                        @foreach(var comment in post.Comments)
+                        {
+                            <div class=Comments>
+                                <h5>@comment.Commentor.First @comment.Commentor.Last <span>@comment.Created.ToString("MMM dd, yyyy hh:mm tt")</span></h5>
+                                <p>@comment.Content</p>
+                            </div>
+                        }
+                        <form class="msg" asp-action="addComment" asp-controller="Home" method="post">
+                            <div class="form-group">
+                                <input type="hidden" name="Postid" value="@post.id">
+                                <textarea name="Content" class="form-control" id="exampleFormControlTextarea1" rows="2"></textarea>
+                            </div>
+                            <button type="submit">Comment</button>
+                        </form>
+                    </div>
+                </div>
+                }
+        </div>
+    </div>
+</body>

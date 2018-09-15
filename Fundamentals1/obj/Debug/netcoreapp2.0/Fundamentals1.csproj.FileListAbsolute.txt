@@ -1,0 +1,10 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/bin/Debug/netcoreapp2.0/Fundamentals1.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Fundamentals1/obj/Debug/netcoreapp2.0/Fundamentals1.pdb

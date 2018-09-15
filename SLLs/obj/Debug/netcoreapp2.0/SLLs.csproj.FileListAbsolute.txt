@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/bin/Debug/netcoreapp2.0/SLLs.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/bin/Debug/netcoreapp2.0/SLLs.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/bin/Debug/netcoreapp2.0/SLLs.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/bin/Debug/netcoreapp2.0/SLLs.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/bin/Debug/netcoreapp2.0/SLLs.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/obj/Debug/netcoreapp2.0/SLLs.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/obj/Debug/netcoreapp2.0/SLLs.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/obj/Debug/netcoreapp2.0/SLLs.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/obj/Debug/netcoreapp2.0/SLLs.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/obj/Debug/netcoreapp2.0/SLLs.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/SLLs/obj/Debug/netcoreapp2.0/SLLs.pdb

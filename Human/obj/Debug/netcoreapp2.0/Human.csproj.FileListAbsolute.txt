@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/bin/Debug/netcoreapp2.0/Human.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/bin/Debug/netcoreapp2.0/Human.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/bin/Debug/netcoreapp2.0/Human.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/bin/Debug/netcoreapp2.0/Human.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/bin/Debug/netcoreapp2.0/Human.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/obj/Debug/netcoreapp2.0/Human.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/obj/Debug/netcoreapp2.0/Human.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/obj/Debug/netcoreapp2.0/Human.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/obj/Debug/netcoreapp2.0/Human.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/obj/Debug/netcoreapp2.0/Human.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Human/obj/Debug/netcoreapp2.0/Human.pdb

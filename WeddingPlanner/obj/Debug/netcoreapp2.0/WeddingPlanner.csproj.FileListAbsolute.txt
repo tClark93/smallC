@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/obj/Debug/netcoreapp2.0/WeddingPlanner.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/obj/Debug/netcoreapp2.0/WeddingPlanner.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/obj/Debug/netcoreapp2.0/WeddingPlanner.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/obj/Debug/netcoreapp2.0/WeddingPlanner.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/bin/Debug/netcoreapp2.0/WeddingPlanner.deps.json
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/bin/Debug/netcoreapp2.0/WeddingPlanner.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/bin/Debug/netcoreapp2.0/WeddingPlanner.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/bin/Debug/netcoreapp2.0/WeddingPlanner.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/bin/Debug/netcoreapp2.0/WeddingPlanner.pdb
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/obj/Debug/netcoreapp2.0/WeddingPlanner.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/WeddingPlanner/obj/Debug/netcoreapp2.0/WeddingPlanner.pdb

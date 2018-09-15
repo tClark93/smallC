@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/bin/Debug/netcoreapp2.0/LostintheWoods.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/bin/Debug/netcoreapp2.0/LostintheWoods.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/bin/Debug/netcoreapp2.0/LostintheWoods.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/bin/Debug/netcoreapp2.0/LostintheWoods.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/bin/Debug/netcoreapp2.0/LostintheWoods.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/obj/Debug/netcoreapp2.0/LostintheWoods.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/obj/Debug/netcoreapp2.0/LostintheWoods.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/obj/Debug/netcoreapp2.0/LostintheWoods.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/obj/Debug/netcoreapp2.0/LostintheWoods.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/obj/Debug/netcoreapp2.0/LostintheWoods.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/LostintheWoods/obj/Debug/netcoreapp2.0/LostintheWoods.pdb

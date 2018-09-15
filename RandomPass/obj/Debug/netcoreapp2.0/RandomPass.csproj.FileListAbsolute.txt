@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/bin/Debug/netcoreapp2.0/RandomPass.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/bin/Debug/netcoreapp2.0/RandomPass.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/bin/Debug/netcoreapp2.0/RandomPass.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/bin/Debug/netcoreapp2.0/RandomPass.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/bin/Debug/netcoreapp2.0/RandomPass.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/obj/Debug/netcoreapp2.0/RandomPass.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/obj/Debug/netcoreapp2.0/RandomPass.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/obj/Debug/netcoreapp2.0/RandomPass.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/obj/Debug/netcoreapp2.0/RandomPass.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/obj/Debug/netcoreapp2.0/RandomPass.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/RandomPass/obj/Debug/netcoreapp2.0/RandomPass.pdb

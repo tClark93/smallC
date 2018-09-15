@@ -1,0 +1,56 @@
+<head>
+
+</head>
+@model ViewModel
+<body>
+    <h1>@Model.Product.Name</h1>
+    <div>
+        <div>
+            <h3>Categories</h3>
+            <ul>
+                @foreach(var product in @Model.AllProducts)
+                {
+                    @if(@product.id == @Model.Product.id)
+                    {
+                        @foreach(var category in @product.Categories)
+                        {
+                            <li>@category.Category.Name</li>
+                        }
+                    } 
+                }
+            </ul>
+        </div>
+        <div>
+            <h3>Add a Category:</h3>
+            <form action="/pair/product/@Model.Product.id" type="post">
+                <select class="custom-select" asp-for="Category.id">
+                    @{
+                        List<int> ids = new List<int>();
+                        int count = 0;
+                        @foreach(var pair in @Model.AllPairs)
+                        {
+                            count++;
+                            @if(pair.Productid != @Model.Product.id)
+                            {
+                                ids.Add((int)@pair.Categoryid);
+                            }   
+                        }
+                        @foreach(int x in ids.Distinct())
+                        {
+                            @foreach(var category in @Model.AllCategories)
+                            {
+                                @if(@category.id == @x)
+                                {
+                                    <option value="@category.id">@category.Name</option>
+                                    <option>@count</option>
+                                } 
+                            }
+                        }
+
+                    }
+                </select>
+                <button type="submit" class="btn btn-success">Add</button>
+            </form>
+        </div>
+    </div>
+</body>

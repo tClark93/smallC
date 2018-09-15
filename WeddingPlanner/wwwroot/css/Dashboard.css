@@ -1,0 +1,49 @@
+.wrapper{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.Head{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.Head h4{
+    margin-top: 30px;
+}
+.cat{
+    font-size: 12pt;
+    font-weight: normal;
+    background-color: #333333;
+    color: azure;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding:8px;
+    height: 60%;
+}
+
+table{
+    width: 100%
+}
+table, th, td{
+    border: 1px solid rgb(204, 204, 204)
+}
+th{
+    padding:15px;
+    font-size: 18pt;
+    text-align: center;
+}
+td{
+    font-size: 12pt;
+    margin-left: 20px;
+    padding: 15px;
+}
+.butt{
+    border-radius: 10px;
+    font-size: 12pt;
+    background-color: #7463be;
+    color: azure;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding:8px;
+}

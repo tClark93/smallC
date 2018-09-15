@@ -1,0 +1,47 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/style2.css" asp-append-version="true" />
+</head>
+
+<body>
+@model Review
+    <div class="wrapper">
+        @{
+            foreach(var review in @ViewBag.All)
+            {
+                <div class="center">
+                    <div class="review">
+                        <div class = "top">
+                            <div class="Establishment">
+                                <h2>Review For: @review.Restaurant</h2>
+                            </div>
+                            <div class="stars">
+                                @for(var i = 0; i < @review.Stars; i++)
+                                {
+                                    <img src="~/images/star.png">;
+                                }
+                                @for(int i = @review.Stars; i < 5; i++){
+                                    <img src="~/images/img_330749.png">
+                                }
+                            </div>
+                        </div>
+                        <div class="author">
+                            <h4>Written By: @review.Reviewer</h4>
+                        </div>
+                        <div class="content">
+                            <p>@review.Content</p>
+                        </div>
+                        <div class="buttons">
+                            <form action="helpful">
+                                <button class="help">Helpful</button>
+                            </form>
+                            <form action="unhelpful">
+                                <button class="un">Unhelpful</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        <a href="/" class="badge badge-success">Go Back</a>
+    </div>
+</body>

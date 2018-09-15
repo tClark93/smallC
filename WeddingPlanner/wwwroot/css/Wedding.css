@@ -1,0 +1,41 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.left{
+    width: 68%;
+    height: 80vh;
+}
+.right{
+    width: 28%;
+    height: 80vh;
+}
+.left h1{
+    font-size: 36pt;
+    margin-bottom: 50px;
+}
+.left h4{
+    font-size: 20pt;
+    margin: 15px;
+}
+.left p{
+    font-size: 14pt;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.right a{
+    display: block;
+    text-align: end;
+    margin: 20px;
+    font-size: 14pt;
+    text-decoration: underline;
+}
+.right h5{
+    font-size: 20pt;
+    margin: 35px;
+}

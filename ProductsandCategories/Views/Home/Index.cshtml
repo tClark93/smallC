@@ -1,0 +1,36 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+</head>
+<body>
+@model ViewModel
+    <div class="wrapper">
+        <div class="products">
+            <h1>Products</h1>
+            <a href="product">Add Product</a>
+            <br>
+            <br>
+            <div class="form-group">
+                <ul>
+                    @foreach(var product in @Model.AllProducts)
+                    {
+                        <li><a href="product/@product.id">@product.Name</a></li>
+                    }
+                </ul>
+            </div>
+        </div>
+        <div class="categories">
+            <h1>Categories</h1>
+            <a href="category">Add Category</a>
+            <br>
+            <br>
+            <div class="form-group">
+                <ul>
+                    @foreach(var category in @Model.AllCategories)
+                    {
+                        <li><a href="category/@category.id">@category.Name</a></li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>

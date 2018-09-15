@@ -1,0 +1,24 @@
+.title{
+    text-align: center;
+}
+.registration{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.login{
+    display: flex;
+    justify-content: flex-end;
+}
+a{
+    margin-right: 100px;
+}
+button{
+    border-radius: 10px;
+    font-size: 12pt;
+    background-color: #333333;
+    color: azure;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding:8px;
+    margin-top: 20px;
+}

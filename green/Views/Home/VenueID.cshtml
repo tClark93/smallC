@@ -1,0 +1,82 @@
+<head>
+    <link rel="stylesheet" href="~/css/VenueID.css" asp-append-version="true" />
+</head>
+<body>
+@model ViewModel
+@{
+    int photo = @Model.Venue.id;
+    string x = "venue"+photo+".jpg";
+}
+    <div class="background">
+        <div class="topper">
+            <div class="header">
+                <a>About?</a>
+                <a href="/venue">Venues</a>
+                <a  href="/"><img src="~/images/title.png"></a>
+                <a href="/artist">Artists</a>
+                <a>Join</a>
+            </div>
+        </div>
+        <div class="contain">
+            <div class="left">
+                <div id="map">
+
+                </div>
+                <p>@Model.Venue.Address</p>
+                <p>@Model.Venue.City, Mi @Model.Venue.Zip</p>
+                <p>@Model.Venue.Open - @Model.Venue.Close</p>
+                <p>@String.Format("{0:(###) ###-####}", @Model.Venue.Phone)</p>
+                <br>
+                @if(@Model.Venue.Website != null){
+                    <a href="@Model.Venue.Website">@Model.Venue.Website</a>
+                }
+                <div class="social">
+                   @if(@Model.Venue.Twitter != null){
+                            <a href="@Model.Venue.Twitter"><img class="icon" src="~/images/twitter.png"></a>
+                        }
+                        @if(@Model.Venue.Instagram != null){
+                            <a href="@Model.Venue.Instagram"><img class="icon" src="~/images/instagram.png"></a>
+                        }
+                        @if(@Model.Venue.Facebook != null){
+                            <a href="@Model.Venue.Facebook"><img class="icon" src="~/images/facebook.png"></a>
+                        }
+                </div>
+            </div>
+            <div class="center">
+                <h1>The Parlor</h1>
+                <div class="image">
+                    <img src="/images/@x">
+                </div>
+                <p>@Model.Venue.Description</p>
+            </div>
+            <div class="right">
+                <h3>Upcoming Events</h3>
+                <ul>
+                    <li>
+                        Friday, July 27 8:00 - 10:00
+                        <br>
+                        <a href="/artist/1">Blake Elliott</a>
+                        <br>
+                    </li>
+                    <li>
+                        Saturday, July 28 9:00 - 11:00
+                        <br>
+                        <a href="/artist/5">The Accidentals</a>
+                        <br>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+    <script>
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: @Model.Venue.Lat, lng: @Model.Venue.Long},
+          zoom: 18
+        });
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD2wUXBKM0vyNxbTmWIKuZsnyuLBY093lg&callback=initMap"
+    async defer></script>

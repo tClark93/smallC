@@ -1,0 +1,29 @@
+<head>
+    <link rel="stylesheet" href="~/css/Artist.css" asp-append-version="true" />
+</head>
+<body>
+@model ViewModel
+    <div class="background">
+        <div class="topper">
+            <div class="header">
+                <a>About?</a>
+                <a href="/venue">Venues</a>
+                <a  href="/"><img src="~/images/title.png"></a>
+                <a href="/artist">Artists</a>
+                <a>Join</a>
+            </div>
+        </div>
+    <div>
+        @foreach(var artist in @Model.AllArtists)
+        {
+            string x = "artist"+@artist.id+".jpg";
+            <div class="hold">
+                <div class="image">
+                    <img src="~/images/@x" alt="">
+                </div>
+                <a href="/artist/@artist.id">@artist.Name</a>
+            </div>
+        }
+    </div>
+    </div>
+</body>

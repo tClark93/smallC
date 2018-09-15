@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/bin/Debug/netcoreapp2.0/TheWall.deps.json
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/bin/Debug/netcoreapp2.0/TheWall.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/bin/Debug/netcoreapp2.0/TheWall.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/bin/Debug/netcoreapp2.0/TheWall.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/bin/Debug/netcoreapp2.0/TheWall.pdb
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/obj/Debug/netcoreapp2.0/TheWall.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/obj/Debug/netcoreapp2.0/TheWall.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/obj/Debug/netcoreapp2.0/TheWall.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/obj/Debug/netcoreapp2.0/TheWall.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/obj/Debug/netcoreapp2.0/TheWall.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/TheWall/obj/Debug/netcoreapp2.0/TheWall.pdb

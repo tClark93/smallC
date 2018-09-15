@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/bin/Debug/netcoreapp2.0/ProductsandCategories.deps.json
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/bin/Debug/netcoreapp2.0/ProductsandCategories.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/bin/Debug/netcoreapp2.0/ProductsandCategories.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/bin/Debug/netcoreapp2.0/ProductsandCategories.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/bin/Debug/netcoreapp2.0/ProductsandCategories.pdb
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/obj/Debug/netcoreapp2.0/ProductsandCategories.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/obj/Debug/netcoreapp2.0/ProductsandCategories.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/obj/Debug/netcoreapp2.0/ProductsandCategories.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/obj/Debug/netcoreapp2.0/ProductsandCategories.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/obj/Debug/netcoreapp2.0/ProductsandCategories.dll
+/Users/Troy/Documents/Dojo/C#/ORMs/ProductsandCategories/obj/Debug/netcoreapp2.0/ProductsandCategories.pdb

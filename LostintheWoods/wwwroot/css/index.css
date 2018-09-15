@@ -1,0 +1,19 @@
+.head{
+    text-align: center;
+    margin: 40px;
+}
+.content{
+    height: 550px;
+    overflow: auto;
+    border: black solid 1px;
+}
+.footer{
+    margin: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+.badge{
+    font-size: 12pt;
+    padding: 15px;
+    background-color: darkorange;
+}

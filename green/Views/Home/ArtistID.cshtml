@@ -1,0 +1,51 @@
+﻿<head>
+    <link rel="stylesheet" href="~/css/ArtistID.css" asp-append-version="true" />
+</head>
+<body>
+@model ViewModel
+@{
+    int photo = @Model.Artist.id;
+    string x = "artist"+photo+".jpg";
+}
+    <div class="background">
+        <div class="topper">
+            <div class="header">
+                <a>About?</a>
+                <a href="/venue">Venues</a>
+                <a  href="/"><img src="~/images/title.png"></a>
+                <a href="/artist">Artists</a>
+                <a>Join</a>
+            </div>
+        </div>
+        <div class="">
+            <div class="body">
+                <div class="left">
+                    <div class="image">
+                        <img src="/images/@x">
+                    </div>
+                    <div class="website">
+                        @if(@Model.Artist.Website != null){
+                            <a href="@Model.Artist.Website">@Model.Artist.Website</a>
+                        }
+                    </div>
+                    <div class="social">
+                        @if(@Model.Artist.Twitter != null){
+                            <a href="@Model.Artist.Twitter"><img class="icon" src="~/images/twitter.png"></a>
+                        }
+                        @if(@Model.Artist.Instagram != null){
+                            <a href="@Model.Artist.Instagram"><img class="icon" src="~/images/instagram.png"></a>
+                        }
+                        @if(@Model.Artist.Facebook != null){
+                            <a href="@Model.Artist.Facebook"><img class="icon" src="~/images/facebook.png"></a>
+                        }
+                    </div>
+                </div>
+                <div class="right">
+                    <h1>@Model.Artist.Name</h1>
+                    <p>@Model.Artist.Description</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

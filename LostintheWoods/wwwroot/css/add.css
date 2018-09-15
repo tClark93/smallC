@@ -1,0 +1,43 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 75px;
+    width: 80%
+}
+.head h1, a{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a{
+    vertical-align: bottom;
+    text-decoration: underline;
+    font-size: 14pt;
+}
+.body{
+    display: flex;
+    justify-content: center;
+}
+table{
+    width: 100%;
+}
+.text{
+    text-align: right;
+}
+.input{
+    display: inline-block;
+    width: 100%;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left: 10px;
+}
+.extra{
+    display: inline-block;
+    margin-left: 10px;
+    width: 47%;
+}
+.but{
+    display: flex;
+    justify-content: flex-end;
+    margin: 25px;
+    margin-right: 0px;
+}

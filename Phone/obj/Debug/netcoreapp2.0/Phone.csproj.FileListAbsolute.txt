@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/bin/Debug/netcoreapp2.0/Phone.deps.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/bin/Debug/netcoreapp2.0/Phone.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/bin/Debug/netcoreapp2.0/Phone.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/bin/Debug/netcoreapp2.0/Phone.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/bin/Debug/netcoreapp2.0/Phone.pdb
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/obj/Debug/netcoreapp2.0/Phone.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/obj/Debug/netcoreapp2.0/Phone.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/obj/Debug/netcoreapp2.0/Phone.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/obj/Debug/netcoreapp2.0/Phone.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/obj/Debug/netcoreapp2.0/Phone.dll
+/Users/Troy/Documents/Dojo/C#/Language Fundamentals/Phone/obj/Debug/netcoreapp2.0/Phone.pdb

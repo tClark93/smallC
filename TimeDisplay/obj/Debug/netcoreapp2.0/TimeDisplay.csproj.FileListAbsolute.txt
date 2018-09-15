@@ -1,0 +1,11 @@
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.deps.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.runtimeconfig.dev.json
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/bin/Debug/netcoreapp2.0/TimeDisplay.pdb
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csprojResolveAssemblyReference.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.csproj.CoreCompileInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfoInputs.cache
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.AssemblyInfo.cs
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.dll
+/Users/Troy/Documents/Dojo/C#/ASP.NET Core/TimeDisplay/obj/Debug/netcoreapp2.0/TimeDisplay.pdb
